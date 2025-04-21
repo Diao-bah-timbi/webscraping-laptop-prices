@@ -24,3 +24,9 @@ This project is a Python-based tool that scrapes laptop listings from multiple e
 
 ```bash
 pip install -r requirements.txt
+
+
+![Screenshot](output/price-analyser-capture1.png)
+![Screenshot](output/price-analyser-capture3.png)
+![Screenshot](output/price-analyser-capture2.png)
+
